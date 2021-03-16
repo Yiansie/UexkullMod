@@ -1,0 +1,3 @@
+displayName = Uexkull Mod
+author = Team Illusion
+version = 0.1

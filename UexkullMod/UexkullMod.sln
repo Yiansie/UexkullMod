@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UexkullMod", "UexkullMod.csproj", "{3F693604-1A5F-4611-9851-B15C5BFE339B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F693604-1A5F-4611-9851-B15C5BFE339B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F693604-1A5F-4611-9851-B15C5BFE339B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F693604-1A5F-4611-9851-B15C5BFE339B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F693604-1A5F-4611-9851-B15C5BFE339B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103FA519-A1B2-4472-B96F-7B6E90C47722}
+	EndGlobalSection
+EndGlobal
